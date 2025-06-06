@@ -1,0 +1,10 @@
+--------------------------
+Credenciales de acceso
+Programación Unplugged
+--------------------------
+
+Usuario: admin
+
+Contraseña: Fablab-2025
+
+link: http://localhost/my/
